@@ -1,1 +1,2 @@
-# 204-proj
+# C204-project-template
+template with assets.
